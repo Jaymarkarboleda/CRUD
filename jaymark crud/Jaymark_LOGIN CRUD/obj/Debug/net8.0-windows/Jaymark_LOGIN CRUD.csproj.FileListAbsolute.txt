@@ -1,0 +1,17 @@
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN_CRUD.Form1.resources
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN_CRUD.Properties.Resources.resources
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.csproj.GenerateResource.cache
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.AssemblyInfoInputs.cache
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.AssemblyInfo.cs
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\bin\Debug\net8.0-windows\Jaymark_LOGIN CRUD.exe
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\bin\Debug\net8.0-windows\Jaymark_LOGIN CRUD.deps.json
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\bin\Debug\net8.0-windows\Jaymark_LOGIN CRUD.runtimeconfig.json
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\bin\Debug\net8.0-windows\Jaymark_LOGIN CRUD.dll
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\bin\Debug\net8.0-windows\Jaymark_LOGIN CRUD.pdb
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.dll
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\refint\Jaymark_LOGIN CRUD.dll
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.pdb
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\Jaymark_LOGIN CRUD.genruntimeconfig.cache
+C:\Users\STUDENT.CL2-PC32\Documents\jaymark\Jaymark_LOGIN CRUD\Jaymark_LOGIN CRUD\obj\Debug\net8.0-windows\ref\Jaymark_LOGIN CRUD.dll

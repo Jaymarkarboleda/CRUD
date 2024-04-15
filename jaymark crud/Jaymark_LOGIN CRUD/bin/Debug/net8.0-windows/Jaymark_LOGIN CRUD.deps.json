@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Jaymark_LOGIN CRUD/1.0.0": {
+        "runtime": {
+          "Jaymark_LOGIN CRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jaymark_LOGIN CRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
